@@ -1,0 +1,67 @@
+{
+  "name": "gulp-progeny",
+  "version": "0.1.2",
+  "description": "Gulp plugin for dependencies building",
+  "main": "dest/index.js",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "keywords": [
+    "gulpplugin",
+    "dependencies",
+    "incremental building",
+    "compile"
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "glob": "^4.0.5",
+    "gulp-util": "^2.2.20",
+    "pat-mat": "^0.1.1",
+    "through2": "^0.5.1"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.8.6",
+    "gulp-coffee": "^2.1.1",
+    "gulp-mocha": "^0.5.2",
+    "mocha": "*"
+  },
+  "author": {
+    "name": "Herrington Darkholme"
+  },
+  "license": "Apache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerringtonDarkholme/gulp-progeny.git"
+  },
+  "homepage": "https://github.com/HerringtonDarkholme/gulp-progeny",
+  "bugs": {
+    "url": "https://github.com/HerringtonDarkholme/gulp-progeny/issues"
+  },
+  "gitHead": "621722e1ac4b520cd6b66f2469a9f127f0f53219",
+  "_id": "gulp-progeny@0.1.2",
+  "_shasum": "7a3988407ab89b2078e79aa035f9db8fd434175f",
+  "_from": "gulp-progeny@*",
+  "_npmVersion": "2.11.1",
+  "_nodeVersion": "1.0.3",
+  "_npmUser": {
+    "name": "nonamesheep",
+    "email": "nonamesheep1@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "nonamesheep",
+      "email": "nonamesheep1@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "7a3988407ab89b2078e79aa035f9db8fd434175f",
+    "size": 8849,
+    "noattachment": false,
+    "tarball": "http://r.cnpmjs.org/gulp-progeny/download/gulp-progeny-0.1.2.tgz"
+  },
+  "directories": {},
+  "publish_time": 1441077828946,
+  "_cnpm_publish_time": 1441077828946,
+  "_resolved": "http://r.cnpmjs.org/gulp-progeny/download/gulp-progeny-0.1.2.tgz"
+}
